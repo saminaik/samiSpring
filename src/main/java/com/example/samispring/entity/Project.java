@@ -16,6 +16,9 @@ public class Project {
         ClientName = clientName;
     }
 
+    public Project() {
+    }
+
     public int getId() {
         return id;
     }
